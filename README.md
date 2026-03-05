@@ -1,12 +1,12 @@
-# 🍗 Analysis of Correlation Between Socio-Economic Factors and Food Service Distribution in Seoul
+# Analysis of Correlation Between Socio-Economic Factors and Food Service Distribution in Seoul
 
 This project investigates the relationship between regional income levels, population density, and the spatial distribution of chicken restaurants across 25 districts in Seoul, South Korea.
 
-## 🎯 Project Objective
+## Project Objective
 **Analyzing the relationship between income levels, population density, and food service distribution.**
 The goal is to verify the common hypothesis regarding the density of small businesses (specifically chicken restaurants) in relation to a district's economic and demographic status through a data-driven approach.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language**: Python
 - **Environment**: Google Colab
 - **Libraries**: Pandas (Data Preprocessing), Matplotlib & Seaborn (Data Visualization)
@@ -21,6 +21,6 @@ The goal is to verify the common hypothesis regarding the density of small busin
 ## Key Insights (Summary)
 -
 
-## 📅 Project Status
+## Project Status
 - **Initial Upload**: March 2026 (Korean Version)
 - **Planned Update**: Full English documentation and code refactoring are scheduled for Summer 2026 to prepare for graduate school applications.
