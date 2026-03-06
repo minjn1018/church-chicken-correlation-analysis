@@ -22,5 +22,5 @@ The goal is to verify the common hypothesis regarding the density of small busin
 -
 
 ## Project Status
-- **Initial Upload**: March 2026 (Korean Version)
+- **Project Conducted**: October 2025 (Initial Korean Version)
 - **Planned Update**: Full English documentation and code refactoring are scheduled for Summer 2026 to prepare for graduate school applications.
